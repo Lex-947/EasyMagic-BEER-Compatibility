@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.lexrei.easymagicbeer.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "easymagicbeer.refmap.json",
+  "mixins": [
+    "EnchantmentTableBlockMixin",
+    "ModEnchantmentMenuMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

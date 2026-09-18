@@ -205,7 +205,11 @@ Neither EasyMagic nor BEER is bundled with this project, and their original JAR 
 
 ## License
 
-See the repository's license information for the licensing terms of this project.
+This project is licensed under the MIT License.
+
+You are free to use, modify, redistribute, and include this project in modpacks or other projects, provided the copyright and license notice are retained as required by the MIT License.
+
+Attribution is appreciated when using or building upon this project. If you include it in a modpack, fork it, or create a derivative project, a mention of LexRei and a link to [this](https://github.com/Lex-947/EasyMagic-BEER-Compatibility) repository would be appreciated.
 
 EasyMagic and BEER remain separate projects and retain their respective licenses and ownership.
 

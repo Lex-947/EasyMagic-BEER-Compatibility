@@ -18,12 +18,9 @@ build
 .gradle
 .gradle-user
 
-# other
-eclipse
-run
-
 # Files from Forge MDK
 forge*changelog.txt
 
 # local development dependencies
 libs
+.vscode

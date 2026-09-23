@@ -5,6 +5,9 @@ modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
 authors="LexRei"
+[[mixins]]
+config="easymagicbeer.mixins.json"
+
 description='''
 Compatibility between Easy Magic and BEER, allowing Easy Magic to use BEER's expanded enchanting table range.
 '''

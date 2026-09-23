@@ -104,6 +104,10 @@ dependencies {
     // For all intends and purposes: You can treat this dependency as if it is a normal library you would use.
     implementation "net.neoforged:neoforge:${neo_version}"
 
+    // Local development dependencies. These JARs are intentionally not bundled into the compatibility mod.
+    implementation files("libs/EasyMagic-v26.1.0-mc26.1.x-NeoForge.jar")
+    implementation files("libs/beer-26.1.2-1.4.3.jar")
+
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"
